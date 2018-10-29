@@ -66,8 +66,7 @@ function Table (options) {
         this.closeHeadingTag = "</th>";
     }
 
-};
-
+}
 
 // эта функция добавляет строку в таблицу
 // для каждой ячейки указывает cellType
